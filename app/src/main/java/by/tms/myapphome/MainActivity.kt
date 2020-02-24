@@ -1,12 +1,30 @@
 package by.tms.myapphome
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 
-class MainActivity : AppCompatActivity() {
+
+open class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val but = findViewById<View>(R.id.button1)
+        but.setOnClickListener(this)
+
+
     }
+
+    override fun onClick(v: View?) {
+
+        val intent = Intent(this, ActivityTwo::class.java)
+        startActivity(intent)
+    }
+
+
+
+
 }

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyAppHome</string>
+    <string name="button1">Домашка первая</string>
+    <string name="button2">Домашка вторая</string>
+    <string name="button3">Домашка третья</string>
+    <string name="text1">"Мое первое приложение"</string>
 </resources>
