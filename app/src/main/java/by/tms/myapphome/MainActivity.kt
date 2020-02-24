@@ -12,8 +12,8 @@ open class MainActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val but = findViewById<View>(R.id.button1)
-        but.setOnClickListener(this)
+        val buttonOne = findViewById<View>(R.id.button1)
+        buttonOne.setOnClickListener(this)
 
 
     }
