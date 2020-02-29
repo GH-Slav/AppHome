@@ -3,8 +3,23 @@
     <color name="colorPrimary">#424553</color>
     <color name="colorPrimaryDark">#3AC4B3</color>
     <color name="colorAccent">#999C2852</color>
-    <color name="color1">#8B2D26</color>
-    <color name="color2">#44A6D3</color>
-    <color name="color3">#99DB86A4</color>
+    <color name="colorApp">#FFF0FF</color>
+    <color name="color1">#EB958F</color>
+    <color name="color2">#90C2DB</color>
+    <color name="color3">#99DDBD8E</color>
+    <color name="color4">#FC7448</color>
+    <color name="colorFlagsArmenia1">#D90012</color>
+    <color name="colorFlagsArmenia2">#0032A0</color>
+    <color name="colorFlagsArmenia3">#F2A800</color>
+    <color name="colorFlagsAustria1">#ED2939</color>
+    <color name="colorFlagsBelgium1">#000000</color>
+    <color name="colorFlagsBelgium2">#FDDA24</color>
+    <color name="colorFlagsBelgium3">#EF3340</color>
+    <color name="colorFlagsLatvia1">#9E3039</color>
+    <color name="colorFlagsDenmark1">#C60C30</color>
+    <color name="colorFlagsDenmark2">#FFFFFF</color>
+    <color name="colorFlagsSpain1">#AA151B</color>
+    <color name="colorFlagsSpain2">#F1BF00</color>
+
 
 </resources>

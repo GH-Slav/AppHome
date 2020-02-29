@@ -4,20 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ActivityTwo">
+    android:background="@color/colorApp"
+    tools:context=".ActivityHwOne">
 
 
     <TextView
         android:id="@+id/text1"
         android:layout_width="300sp"
         android:layout_height="100sp"
-        android:text="@string/text1"
         android:gravity="center"
-        android:textSize="25sp"
+        android:text="@string/text1"
         android:textColor="#103510"
-        android:textStyle="italic"
+        android:textSize="25sp"
+        android:textStyle="italic|bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="232dp"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintTop_toTopOf="parent"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>

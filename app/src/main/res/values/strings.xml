@@ -4,4 +4,13 @@
     <string name="button2">Домашка вторая</string>
     <string name="button3">Домашка третья</string>
     <string name="text1">"Мое первое приложение"</string>
+    <string name="flag">Country flags</string>
+    <string name="animated_pictures">Animated Pictures</string>
+    <string name="armenia">Armenia</string>
+    <string name="austria">Austria</string>
+    <string name="belgium">Belgium</string>
+    <string name="latvia">Latvia</string>
+    <string name="denmark">Denmark</string>
+    <string name="spain">Spain</string>
+
 </resources>

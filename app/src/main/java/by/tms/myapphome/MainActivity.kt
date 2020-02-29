@@ -3,28 +3,25 @@ package by.tms.myapphome
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
+import kotlinx.android.synthetic.main.activity_main.*
 
 
-open class MainActivity : AppCompatActivity(), View.OnClickListener {
+open class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val buttonOne = findViewById<View>(R.id.button1)
-        buttonOne.setOnClickListener(this)
+        button1.setOnClickListener {
+            val intent = Intent(this, ActivityHwOne::class.java)
+            startActivity(intent)
+        }
 
+        button2.setOnClickListener {
+            val intent = Intent(this, ActivityHwTwoMain::class.java)
+            startActivity(intent)
+        }
 
     }
-
-    override fun onClick(v: View?) {
-
-        val intent = Intent(this, ActivityTwo::class.java)
-        startActivity(intent)
-    }
-
-
-
 
 }

@@ -2,9 +2,9 @@ package by.tms.myapphome
 
 import android.os.Bundle
 
-open class ActivityTwo: MainActivity() {
+open class ActivityHwOne: MainActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_two)
+        setContentView(R.layout.activity_hw_one)
     }
 }
