@@ -9,8 +9,7 @@
        android:layout_width="match_parent"
        android:layout_height="match_parent"
        android:layout_margin="40dp"
-       android:adjustViewBounds="true"
-       android:src="@drawable/cat"/>
+       android:adjustViewBounds="true" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
