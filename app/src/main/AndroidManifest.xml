@@ -18,7 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ActivityTwo" />
+        <activity android:name=".ActivityHwOne" />
+        <activity android:name=".ActivityHwTwoMain" />
+        <activity android:name=".ActivityHwTwoOne" />
+        <activity android:name=".ActivityHwTwoTwoAnimations" />
     </application>
 
 </manifest>
