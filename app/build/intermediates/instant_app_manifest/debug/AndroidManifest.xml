@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="by.tms.apphome2"
+    package="by.tms.homeapplication"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -19,22 +19,22 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="by.tms.apphome2.MainActivity" >
+        <activity android:name="by.tms.homeapplication.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="by.tms.apphome2.ActivityHwOne" />
-        <activity android:name="by.tms.apphome2.ActivityHwTwoMain" />
-        <activity android:name="by.tms.apphome2.ActivityHwTwoOne" />
-        <activity android:name="by.tms.apphome2.ActivityHwTwoTwoAnimations" />
-        <activity android:name="by.tms.apphome2.HwThree" />
+        <activity android:name="by.tms.homeapplication.OneMyFirstApp.ActivityOne" />
+        <activity android:name="by.tms.homeapplication.Two.ActivityTwo" />
+        <activity android:name="by.tms.homeapplication.Two.Flags" />
+        <activity android:name="by.tms.homeapplication.Two.Animations" />
+        <activity android:name="by.tms.homeapplication.Three.CoronaVirus" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="by.tms.apphome2.lifecycle-process"
+            android:authorities="by.tms.homeapplication.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

@@ -1,4 +1,4 @@
-by.tms.apphome2
+by.tms.homeapplication
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -768,6 +768,12 @@ id bottom
 id button1
 id button2
 id button3
+id button4
+id button5
+id button6
+id button7
+id button8
+id button9
 id buttonAnimated
 id buttonFlag
 id buttonPanel
@@ -940,13 +946,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_hw_one
-layout activity_hw_two_layout_main
-layout activity_hw_two_layout_one
-layout activity_hw_two_layout_two_animations
+layout activity_corona_virus
 layout activity_main
+layout activity_one
+layout activity_two
+layout animations
 layout custom_dialog
-layout hw_three
+layout flags
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -998,6 +1004,12 @@ string belgium
 string button1
 string button2
 string button3
+string button4
+string button5
+string button6
+string button7
+string button8
+string button9
 string confirmed
 string dead
 string denmark

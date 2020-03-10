@@ -1,73 +1,73 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="by.tms.apphome2"
+3    package="by.tms.homeapplication"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="18"
-8-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+8-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+9-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:5:5-24:19
+11-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:5:5-24:19
 12        android:allowBackup="true"
-12-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:6:9-35
+12-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:7:9-43
+15-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:8:9-41
+16-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:9:9-54
+17-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:10:9-35
+18-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="by.tms.apphome2.MainActivity" >
-21-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:12:19-47
+20-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="by.tms.homeapplication.MainActivity" >
+21-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+21-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:12:19-69
 22            <intent-filter>
-22-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:13:13-17:29
+22-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:13:13-17:29
 23                <action android:name="android.intent.action.MAIN" />
-23-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:14:17-69
-23-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:14:25-66
+23-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:14:17-69
+23-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:14:25-66
 24
 25                <category android:name="android.intent.category.LAUNCHER" />
-25-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:16:17-77
-25-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:16:27-74
+25-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:16:17-77
+25-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:16:27-74
 26            </intent-filter>
 27        </activity>
-28        <activity android:name="by.tms.apphome2.ActivityHwOne" />
-28-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:19:9-51
-28-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:19:19-48
-29        <activity android:name="by.tms.apphome2.ActivityHwTwoMain" />
-29-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:20:9-55
-29-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:20:19-52
-30        <activity android:name="by.tms.apphome2.ActivityHwTwoOne" />
-30-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:21:9-54
-30-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:21:19-51
-31        <activity android:name="by.tms.apphome2.ActivityHwTwoTwoAnimations" />
-31-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:22:9-64
-31-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:22:19-61
-32        <activity android:name="by.tms.apphome2.HwThree" />
-32-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:23:9-45
-32-->D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:23:19-42
+28        <activity android:name="by.tms.homeapplication.OneMyFirstApp.ActivityOne" />
+28-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:19:9-85
+28-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:19:19-82
+29        <activity android:name="by.tms.homeapplication.Two.ActivityTwo" />
+29-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:20:9-75
+29-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:20:19-72
+30        <activity android:name="by.tms.homeapplication.Two.Flags" />
+30-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:21:9-69
+30-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:21:19-66
+31        <activity android:name="by.tms.homeapplication.Two.Animations" />
+31-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:22:9-74
+31-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:22:19-71
+32        <activity android:name="by.tms.homeapplication.Three.CoronaVirus" />
+32-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:23:9-77
+32-->D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:23:19-74
 33
 34        <provider
-34-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+34-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 35            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-36            android:authorities="by.tms.apphome2.lifecycle-process"
-36-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+36            android:authorities="by.tms.homeapplication.lifecycle-process"
+36-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
 37            android:exported="false"
-37-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+37-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
 38            android:multiprocess="true" />
-38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
 39    </application>
 40
 41</manifest>

@@ -1,194 +1,194 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\984e9fad2c95821fdbdf0f60e03c3f28\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c3e29db393677bfcff28aa426209a09f\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\3ebc3480b5b0c2ad2c5abac0349e610d\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\4b40346f51c0ffcc3d9762d915bbc8ee\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\24017164dbe4d8233e7b9f982555c410\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9c5690a8da07c21616a112c248be1322\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\abccc1c353bc6ed3d84a5c7c42cea017\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\832ca3f7026133f6241ad16f77007d4d\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40af0f2216c85334f302288b3f97f25e\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1aa39df8a7955c33d9a8ce87d00176c\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ab2bc59fcf2859cdf3adba4290ff6c46\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\bf6c48b1534ae8b9bcfc8078effa2a58\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ad2317d1315ab66069b62aa22265c17\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b728301d77254c90b065a7562075b49\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ecffca00653532609abe88e9789dadff\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\dd36625147f2c7b4c68a145c67f621ce\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\fe8eb272be27e26c758e781ceec034ce\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\23e56bf4112e29058c6bdbb998741be3\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cfd36d373bdd98f673d73f1567426fdc\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9b4bd89cc4df75282110b16ba7443912\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d9d950513c2b90d5b5a1cd36e8e2141d\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1534bc0e3871862af150714bf66906a\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\70f111744a7cf708bc2f050451a3b7e7\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40dfe3f6e96658479719986b3f464018\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b6c40ebf3a7527b5521abceeab31967\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c7f0935e7d55a72aff026eb580088845\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:5:5-24:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\984e9fad2c95821fdbdf0f60e03c3f28\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\984e9fad2c95821fdbdf0f60e03c3f28\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40af0f2216c85334f302288b3f97f25e\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40af0f2216c85334f302288b3f97f25e\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:11:9-40
-activity#by.tms.apphome2.MainActivity
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#by.tms.homeapplication.MainActivity
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:12:19-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:16:27-74
-activity#by.tms.apphome2.ActivityHwOne
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:19:9-51
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:16:27-74
+activity#by.tms.homeapplication.OneMyFirstApp.ActivityOne
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:19:9-85
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:19:19-48
-activity#by.tms.apphome2.ActivityHwTwoMain
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:20:9-55
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:19:19-82
+activity#by.tms.homeapplication.Two.ActivityTwo
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:20:9-75
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:20:19-52
-activity#by.tms.apphome2.ActivityHwTwoOne
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:21:9-54
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:20:19-72
+activity#by.tms.homeapplication.Two.Flags
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:21:9-69
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:21:19-51
-activity#by.tms.apphome2.ActivityHwTwoTwoAnimations
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:22:9-64
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:21:19-66
+activity#by.tms.homeapplication.Two.Animations
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:22:9-74
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:22:19-61
-activity#by.tms.apphome2.HwThree
-ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:23:9-45
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:22:19-71
+activity#by.tms.homeapplication.Three.CoronaVirus
+ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:23:9-77
 	android:name
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml:23:19-42
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml:23:19-74
 uses-sdk
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a1768896b6a622b39e1354a69168da0e\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\984e9fad2c95821fdbdf0f60e03c3f28\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\984e9fad2c95821fdbdf0f60e03c3f28\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d29b82594a1639c953ac7a1646b377b0\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c3e29db393677bfcff28aa426209a09f\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c3e29db393677bfcff28aa426209a09f\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\a8776343fdac874fa977e09d507079eb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ee64b703de7c158c2438fbecadd08f5\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d38c63deeca963c558fe516b1169310c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d75caeab24d259cf4a41c633b6c6ae2a\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\3ebc3480b5b0c2ad2c5abac0349e610d\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\3ebc3480b5b0c2ad2c5abac0349e610d\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e86f0abe5b3458becc57dbbb80920b2a\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\4b40346f51c0ffcc3d9762d915bbc8ee\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\4b40346f51c0ffcc3d9762d915bbc8ee\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\7e4df0cd08aa50f2127ae53aa41238ca\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\24017164dbe4d8233e7b9f982555c410\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\24017164dbe4d8233e7b9f982555c410\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\db72437fffedc6d6e9a32ec555665f9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9492c82d98945d6a3560cdf8b6af5799\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5f2de48748d4e50492a35211ea4efefc\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\55f7ae6cd9f600a5fd4360cfb1aa720c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\e25e680e926d459eb2c19be324b11009\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\558ffeba563cbd8612355279e1aa2046\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9075dbfaab39e40f8982b36dac1019b6\core-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9c5690a8da07c21616a112c248be1322\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9c5690a8da07c21616a112c248be1322\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\040833fe11640f1b8c4733bfce84961f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\abccc1c353bc6ed3d84a5c7c42cea017\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\abccc1c353bc6ed3d84a5c7c42cea017\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\376def708fb6281d6ba3088f080671d7\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\6ba631e2a83457d93ff6835fab260e17\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\74ba376e5f4f34ef879a2bc253b663b3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\78a913978e37b54448a1dc2429e82473\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\8ba1861a037181f3766850afe0160a40\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\832ca3f7026133f6241ad16f77007d4d\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\832ca3f7026133f6241ad16f77007d4d\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40af0f2216c85334f302288b3f97f25e\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40af0f2216c85334f302288b3f97f25e\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1aa39df8a7955c33d9a8ce87d00176c\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1aa39df8a7955c33d9a8ce87d00176c\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ab2bc59fcf2859cdf3adba4290ff6c46\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ab2bc59fcf2859cdf3adba4290ff6c46\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\5988781b109aa2e81ee2deed8375ae92\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\bf6c48b1534ae8b9bcfc8078effa2a58\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\bf6c48b1534ae8b9bcfc8078effa2a58\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f5f7a66620d8831b0e3f7e12ec37a827\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ad2317d1315ab66069b62aa22265c17\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9ad2317d1315ab66069b62aa22265c17\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b728301d77254c90b065a7562075b49\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b728301d77254c90b065a7562075b49\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ca5a9502cec0e083550aa68eca95ec74\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ecffca00653532609abe88e9789dadff\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\ecffca00653532609abe88e9789dadff\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\dd36625147f2c7b4c68a145c67f621ce\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\dd36625147f2c7b4c68a145c67f621ce\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\fe8eb272be27e26c758e781ceec034ce\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\fe8eb272be27e26c758e781ceec034ce\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\23e56bf4112e29058c6bdbb998741be3\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\23e56bf4112e29058c6bdbb998741be3\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cfd36d373bdd98f673d73f1567426fdc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cfd36d373bdd98f673d73f1567426fdc\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\04c94a1e7cecc3639be07ee7f25b855e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9b4bd89cc4df75282110b16ba7443912\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9b4bd89cc4df75282110b16ba7443912\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\cf9a3c4239bbce36276eb74597875761\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9185af937948e70e6273b8b7c146a0fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\f8a25a8e7a6c14f5ca703a491b755ba2\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d9d950513c2b90d5b5a1cd36e8e2141d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d9d950513c2b90d5b5a1cd36e8e2141d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1534bc0e3871862af150714bf66906a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\d1534bc0e3871862af150714bf66906a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\70f111744a7cf708bc2f050451a3b7e7\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\70f111744a7cf708bc2f050451a3b7e7\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40dfe3f6e96658479719986b3f464018\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\40dfe3f6e96658479719986b3f464018\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\547917dfaad91e1ccbd3b1cbe7fda014\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b6c40ebf3a7527b5521abceeab31967\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\2b6c40ebf3a7527b5521abceeab31967\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\433b8fba667129f84d564b9e3aaa0ddd\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c7f0935e7d55a72aff026eb580088845\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\c7f0935e7d55a72aff026eb580088845\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\AppHome2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\4. Training\Android Developer Course\Course\myAndroid\HomeApplication\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\9bc22e9e17bf6e30f29bf2b1ae5951fb\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Slav\.gradle\caches\transforms-2\files-2.1\85eabf9a2b28957bb4aaa464de53bbd3\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79

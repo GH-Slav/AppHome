@@ -16,11 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="by.tms.homeapplication.ActivityHwOne" />
-        <activity android:name="by.tms.homeapplication.ActivityHwTwoMain" />
-        <activity android:name="by.tms.homeapplication.ActivityHwTwoOne" />
-        <activity android:name="by.tms.homeapplication.ActivityHwTwoTwoAnimations" />
-        <activity android:name="by.tms.homeapplication.HwThree" />
+        <activity android:name="by.tms.homeapplication.OneMyFirstApp.ActivityOne" />
+        <activity android:name="by.tms.homeapplication.Two.ActivityTwo" />
+        <activity android:name="by.tms.homeapplication.Two.Flags" />
+        <activity android:name="by.tms.homeapplication.Two.Animations" />
+        <activity android:name="by.tms.homeapplication.Three.CoronaVirus" />
     </application>
 
 </manifest>
