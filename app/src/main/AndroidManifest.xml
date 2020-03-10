@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="by.tms.apphome">
+    package="by.tms.homeapplication">
 
     <application
         android:allowBackup="true"
@@ -9,18 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="by.tms.apphome.MainActivity">
+        <activity android:name="by.tms.homeapplication.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="by.tms.apphome.ActivityHwOne" />
-        <activity android:name="by.tms.apphome.ActivityHwTwoMain" />
-        <activity android:name="by.tms.apphome.ActivityHwTwoOne" />
-        <activity android:name="by.tms.apphome.ActivityHwTwoTwoAnimations" />
-        <activity android:name="by.tms.apphome.HwThree" />
+        <activity android:name="by.tms.homeapplication.ActivityHwOne" />
+        <activity android:name="by.tms.homeapplication.ActivityHwTwoMain" />
+        <activity android:name="by.tms.homeapplication.ActivityHwTwoOne" />
+        <activity android:name="by.tms.homeapplication.ActivityHwTwoTwoAnimations" />
+        <activity android:name="by.tms.homeapplication.HwThree" />
     </application>
 
 </manifest>
