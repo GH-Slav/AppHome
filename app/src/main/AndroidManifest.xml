@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="by.tms.myapphome">
+    package="by.tms.apphome">
 
     <application
         android:allowBackup="true"
@@ -9,19 +8,19 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity">
+        android:theme="@style/AppTheme">
+        <activity android:name="by.tms.apphome.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ActivityHwOne" />
-        <activity android:name=".ActivityHwTwoMain" />
-        <activity android:name=".ActivityHwTwoOne" />
-        <activity android:name=".ActivityHwTwoTwoAnimations" />
+        <activity android:name="by.tms.apphome.ActivityHwOne" />
+        <activity android:name="by.tms.apphome.ActivityHwTwoMain" />
+        <activity android:name="by.tms.apphome.ActivityHwTwoOne" />
+        <activity android:name="by.tms.apphome.ActivityHwTwoTwoAnimations" />
+        <activity android:name="by.tms.apphome.HwThree" />
     </application>
 
 </manifest>

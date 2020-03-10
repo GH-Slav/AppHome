@@ -20,6 +20,7 @@
     <color name="colorFlagsDenmark2">#FFFFFF</color>
     <color name="colorFlagsSpain1">#AA151B</color>
     <color name="colorFlagsSpain2">#F1BF00</color>
+    <color name="colorBlack">#070707</color>
 
 
 </resources>

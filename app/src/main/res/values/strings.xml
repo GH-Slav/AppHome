@@ -12,5 +12,13 @@
     <string name="latvia">Latvia</string>
     <string name="denmark">Denmark</string>
     <string name="spain">Spain</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="dead">Dead</string>
+    <string name="_0">0</string>
+    <string name="_1_confirmed">1 confirmed</string>
+    <string name="_1_recovered">1 recovered</string>
+    <string name="_1_dead">1 dead</string>
+    <string name="refresh_data">Refresh data</string>
 
 </resources>
