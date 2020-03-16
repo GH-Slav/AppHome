@@ -1,9 +1,15 @@
 <resources>
-    <string name="app_name">MyAppHome</string>
-    <string name="button1">Домашка первая</string>
-    <string name="button2">Домашка вторая</string>
-    <string name="button3">Домашка третья</string>
-    <string name="text1">"Мое первое приложение"</string>
+    <string name="app_name">HomeWorkApplication</string>
+    <string name="button1">HomeWork One</string>
+    <string name="button2">HomeWork Two</string>
+    <string name="button3">HomeWork Three</string>
+    <string name="button4">HomeWork Four</string>
+    <string name="button5">HomeWork Five</string>
+    <string name="button6">HomeWork Six</string>
+    <string name="button7">HomeWork Seven</string>
+    <string name="button8">HomeWork Eight</string>
+    <string name="button9">HomeWork Nine</string>
+    <string name="text1">"Hello, My first application"</string>
     <string name="flag">Country flags</string>
     <string name="animated_pictures">Animated Pictures</string>
     <string name="armenia">Armenia</string>
@@ -12,5 +18,23 @@
     <string name="latvia">Latvia</string>
     <string name="denmark">Denmark</string>
     <string name="spain">Spain</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="dead">Dead</string>
+    <string name="_0">0</string>
+    <string name="_1_confirmed">+1 confirmed</string>
+    <string name="_1_recovered">+1 recovered</string>
+    <string name="_1_dead">+1 dead</string>
+    <string name="refresh_data">Refresh data</string>
+    <string name="add_top">Add top</string>
+    <string name="add_bottom">Add Bottom</string>
+    <string name="remove_top">Remove top</string>
+    <string name="remove_bottom">Remove bottom</string>
+    <string name="add_flower">Add Flower</string>
+    <string name="url_image">Url Image</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="add">ADD</string>
+    <string name="added">ADDED</string>
 
 </resources>
