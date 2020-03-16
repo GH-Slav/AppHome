@@ -1,1 +1,2 @@
-#Hello this is my repository for homework
+# Привет здесь храниться моя домашняя работа
+ Android
