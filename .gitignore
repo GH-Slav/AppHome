@@ -44,7 +44,7 @@ Thumbs.db
 /app/src/androidTest/
 /app/src/test/
 
-/app/src/main/java/by/tms/homeapplication/Three/
+
 app/src/main/java/by/tms/homeapplication/FourFlower/
 app/src/main/res/drawable/flower_01.xml
 app/src/main/res/layout/activity_flower.xml
