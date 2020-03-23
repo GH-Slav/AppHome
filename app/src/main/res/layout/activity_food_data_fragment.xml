@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="333dp"
+    android:layout_height="266dp"
+    android:background="@color/colorApp"
+    tools:context=".FiveFood.activity.DataFood">
+
+    <ImageView
+        android:id="@+id/imageFoodDataFragment"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/food_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/nameFoodDataFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="@string/name_food"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageFoodDataFragment"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/titleCalorieFoodDataFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/calorie_content"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageFoodDataFragment"
+        app:layout_constraintTop_toBottomOf="@+id/nameFoodDataFragment" />
+
+    <TextView
+        android:id="@+id/calorieFoodDataFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/calorie_content"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageFoodDataFragment"
+        app:layout_constraintTop_toBottomOf="@+id/titleCalorieFoodDataFragment" />
+
+    <TextView
+        android:id="@+id/titlePriceFoodDataFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/price_food"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageFoodDataFragment"
+        app:layout_constraintTop_toBottomOf="@+id/calorieFoodDataFragment" />
+
+    <TextView
+        android:id="@+id/priceFoodDataFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/price_food"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageFoodDataFragment"
+        app:layout_constraintTop_toBottomOf="@+id/titlePriceFoodDataFragment" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

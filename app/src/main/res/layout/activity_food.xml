@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorApp"
+    tools:context=".FiveFood.activity.ActivityFood">
+
+    <TextView
+        android:id="@+id/titleFood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/home_food_delivery"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#6A440B"
+        android:layout_margin="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycleFood"
+        android:layout_width="match_parent"
+        android:layout_height="555dp"
+        android:layout_margin="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/titleFood" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
