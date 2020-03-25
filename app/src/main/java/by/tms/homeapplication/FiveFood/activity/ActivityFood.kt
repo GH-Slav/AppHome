@@ -5,11 +5,8 @@ import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.tms.homeapplication.FiveFood.collections.ViewModelFood
-import by.tms.homeapplication.FourFlower.model.ViewModelFlower
 import by.tms.homeapplication.R
-import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_food.*
-import kotlinx.android.synthetic.main.activity_food_data_fragment.*
 
 const val NAME = "NAME"
 const val PRICE = "PRICE"

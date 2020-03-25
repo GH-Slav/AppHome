@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import by.tms.homeapplication.FiveFood.activity.*
 import by.tms.homeapplication.FiveFood.collections.ViewModelFood
 import by.tms.homeapplication.R
 import com.squareup.picasso.Picasso

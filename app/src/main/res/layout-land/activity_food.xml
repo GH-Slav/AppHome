@@ -15,7 +15,7 @@
         android:gravity="center"
         android:text="@string/home_food_delivery"
         android:textColor="#6A440B"
-        android:textSize="35sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,20 +23,21 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycleFood"
-        android:layout_width="333dp"
-        android:layout_height="266dp"
-        android:layout_margin="20dp"
+        android:layout_width="210dp"
+        android:layout_height="220dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="25dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/titleFood" />
 
     <FrameLayout
         android:id="@+id/fragmentFood"
-        android:layout_width="333dp"
-        android:layout_height="266dp"
-        android:layout_margin="20dp"
-        android:background="#DDAFA1"
+        android:layout_width="210dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="35dp"
+        android:background="#E4D0CA"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/recycleFood"
         app:layout_constraintTop_toBottomOf="@id/titleFood" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

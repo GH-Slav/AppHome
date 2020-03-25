@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/home_food_delivery"
-        android:textSize="35sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:gravity="center"
         android:textColor="#6A440B"
@@ -24,8 +24,8 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycleFood"
         android:layout_width="match_parent"
-        android:layout_height="555dp"
-        android:layout_margin="16dp"
+        android:layout_height="488dp"
+        android:layout_margin="18dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/titleFood" />
