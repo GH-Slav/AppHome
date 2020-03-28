@@ -3,11 +3,12 @@ package by.tms.homeapplication
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import by.tms.homeapplication.FiveFood.activity.ActivityFood
-import by.tms.homeapplication.FourFlower.activity.ActivityFlower
-import by.tms.homeapplication.OneMyFirstApp.ActivityOne
-import by.tms.homeapplication.Three.CoronaVirus
-import by.tms.homeapplication.Two.ActivityTwo
+import by.tms.homeapplication.fivefood.activity.ActivityFood
+import by.tms.homeapplication.fourflower.activity.ActivityFlower
+import by.tms.homeapplication.onemyfirstapp.ActivityOne
+import by.tms.homeapplication.sixdataice.activity.ActivityDataIce
+import by.tms.homeapplication.threecoronavm.CoronaVirus
+import by.tms.homeapplication.twoanimationsandflags.ActivityTwo
 import kotlinx.android.synthetic.main.activity_main.*
 
 open class MainActivity : AppCompatActivity() {
@@ -38,6 +39,11 @@ open class MainActivity : AppCompatActivity() {
 
         button5.setOnClickListener {
             val intent = Intent(this, ActivityFood::class.java)
+            startActivity(intent)
+        }
+
+        button6.setOnClickListener {
+            val intent = Intent(this, ActivityDataIce::class.java)
             startActivity(intent)
         }
 

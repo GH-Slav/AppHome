@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorApp"
-    tools:context=".FourFlower.activity.ActivityFlower">
+    tools:context=".fourflower.activity.ActivityFlower">
 
     <FrameLayout
         android:id="@+id/topFragment"

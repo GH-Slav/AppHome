@@ -40,4 +40,11 @@
     <string name="price_food">"Цена Еды: "</string>
     <string name="home_food_delivery">Доставка еды на дом</string>
     <string name="calorie_content">Калорийность:</string>
+    <string name="data_ice">Данные с мороженным</string>
+    <string name="id">ИД</string>
+    <string name="result">Результат</string>
+    <string name="all">Все</string>
+    <string name="types">Тип</string>
+    <string name="weight">"Вес "</string>
+    <string name="name_calorie_price">Имя Калории Цена</string>
 </resources>

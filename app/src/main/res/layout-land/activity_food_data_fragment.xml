@@ -5,7 +5,7 @@
     android:layout_width="210dp"
     android:layout_height="220dp"
     android:background="@color/colorApp"
-    tools:context=".FiveFood.activity.DataFood">
+    tools:context=".fivefood.activity.DataFood">
 
     <ImageView
         android:id="@+id/imageFoodDataFragment"
