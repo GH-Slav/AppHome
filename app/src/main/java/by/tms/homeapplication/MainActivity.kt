@@ -3,6 +3,7 @@ package by.tms.homeapplication
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import by.tms.homeapplication.FiveFood.activity.ActivityFood
 import by.tms.homeapplication.FourFlower.activity.ActivityFlower
 import by.tms.homeapplication.OneMyFirstApp.ActivityOne
 import by.tms.homeapplication.Three.CoronaVirus
@@ -32,6 +33,11 @@ open class MainActivity : AppCompatActivity() {
 
         button4.setOnClickListener {
             val intent = Intent(this, ActivityFlower::class.java)
+            startActivity(intent)
+        }
+
+        button5.setOnClickListener {
+            val intent = Intent(this, ActivityFood::class.java)
             startActivity(intent)
         }
 

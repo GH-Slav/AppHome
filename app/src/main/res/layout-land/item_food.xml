@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="70dp"
+    android:layout_margin="12dp"
+    android:background="@drawable/shape_food">
+
+    <ImageView
+        android:id="@+id/imageFood"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        android:background="@drawable/food_icon" />
+
+    <TextView
+        android:id="@+id/nameFood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageFood"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="16dp"
+        android:layout_toEndOf="@id/imageFood"
+        android:text="@string/name_food"
+        android:textSize="10sp"
+        android:gravity="center"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/titleCalorieFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/nameFood"
+        android:layout_alignBottom="@id/nameFood"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="-20dp"
+        android:text="@string/calorie_content"
+        android:textSize="8sp"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/calorieFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/nameFood"
+        android:layout_alignBottom="@id/nameFood"
+        android:layout_marginStart="120dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="-20dp"
+        android:text="@string/calorie_content"
+        android:textSize="8sp"
+        android:textStyle="italic"
+        android:gravity="start"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/titlePriceFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/titleCalorieFood"
+        android:layout_alignBottom="@id/titleCalorieFood"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="-20dp"
+        android:text="@string/price_food"
+        android:textSize="8sp"
+        tools:ignore="SmallSp" />
+
+    <TextView
+        android:id="@+id/priceFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/titleCalorieFood"
+        android:layout_alignBottom="@id/titleCalorieFood"
+        android:layout_marginStart="116dp"
+        android:layout_marginEnd="-35dp"
+        android:layout_marginBottom="-20dp"
+        android:text="@string/price_food"
+        android:textSize="8sp"
+        android:textStyle="italic"
+        android:gravity="start"
+        tools:ignore="SmallSp" />
+
+
+</RelativeLayout>

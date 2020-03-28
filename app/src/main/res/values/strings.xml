@@ -36,5 +36,9 @@
     <string name="price">Price</string>
     <string name="add">ADD</string>
     <string name="added">ADDED</string>
+    <string name="name_food">Name Food</string>
+    <string name="price_food">"Price Food: "</string>
+    <string name="home_food_delivery">Home Food Delivery</string>
+    <string name="calorie_content">Calorie content:</string>
 
 </resources>
