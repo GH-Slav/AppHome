@@ -3,6 +3,7 @@ package by.tms.homeapplication
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import by.tms.homeapplication.eightalarmclock.activity.ActivityAlarmClock
 import by.tms.homeapplication.fivefood.activity.ActivityFood
 import by.tms.homeapplication.fourflower.activity.ActivityFlower
 import by.tms.homeapplication.onemyfirstapp.ActivityOne
@@ -50,6 +51,11 @@ open class MainActivity : AppCompatActivity() {
 
         button7.setOnClickListener {
             val intent = Intent(this, ActivityRestfulApi::class.java)
+            startActivity(intent)
+        }
+
+        button8.setOnClickListener {
+            val intent = Intent(this, ActivityAlarmClock::class.java)
             startActivity(intent)
         }
 
