@@ -47,4 +47,6 @@
     <string name="types">Тип</string>
     <string name="weight">"Вес "</string>
     <string name="name_calorie_price">Имя Калории Цена</string>
+    <string name="text_test">Текст  Тест</string>
+    <string name="weather">Погода</string>
 </resources>
