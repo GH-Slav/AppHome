@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".sevenrestfulapi.activity.ActivityRestfulApi"></activity>
+        <activity android:name=".sevenrestfulapi.activity.ActivityRestfulApi"/>
         <activity android:name=".sixdataice.activity.ActivityDataIce" />
         <activity android:name=".fivefood.activity.DataFood" />
         <activity android:name=".fivefood.activity.ActivityFood" />

@@ -8,7 +8,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.create
 
-const val BASEURL = "http://api.openweathermap.org/"
+const val BASEURL = "https://api.openweathermap.org/"
 
 object WeatherFactoryAPI {
 private val KEY_NAME = "appid"
@@ -31,7 +31,7 @@ private val KEY_VALUE = "69e22b2e07699e771cde71bcb0d360b8"
             .baseUrl(BASEURL)
             .addConverterFactory(MoshiConverterFactory.create())
             .addCallAdapterFactory(CoroutineCallAdapterFactory())
-            .client(httpClient.build())
+//            .client(httpClient.build())
             .build()
         return retrofit.create()
     }
