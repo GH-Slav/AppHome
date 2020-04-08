@@ -22,18 +22,6 @@ class ActivityRestfulApi : AppCompatActivity() {
         CoroutineScope(Dispatchers.IO).launch {
             val responseAll = WeatherFactoryAPI.getRetrofit()
                 .getCityCoordinates(53.9, 27.57, 40, "metric","69e22b2e07699e771cde71bcb0d360b8").await()
-//            val responseMinsk = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(53.9, 27.57, "69e22b2e07699e771cde71bcb0d360b8").await()
-//            val responseVitebsk = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(55.19, 30.2, "2a067e2a3cc2caaba1c7f34e279e4e59").await()
-//            val responseMogilev = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(53.91, 30.34, "69e22b2e07699e771cde71bcb0d360b8").await()
-//            val responseGomel = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(52.43, 30.98, "69e22b2e07699e771cde71bcb0d360b8").await()
-//            val responseBrest = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(52.1, 23.7, "69e22b2e07699e771cde71bcb0d360b8").await()
-//            val responseGrodno = WeatherFactoryAPI.getRetrofit()
-//                .getCityCoordinates(53.69, 23.83, "69e22b2e07699e771cde71bcb0d360b8").await()
 
             if (responseAll.isSuccessful) {
                 val weatherAll = responseAll.body()
