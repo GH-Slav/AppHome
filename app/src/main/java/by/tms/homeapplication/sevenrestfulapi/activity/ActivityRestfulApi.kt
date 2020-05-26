@@ -3,10 +3,9 @@ package by.tms.homeapplication.sevenrestfulapi.activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import by.tms.homeapplication.R
-import by.tms.homeapplication.sevenrestfulapi.model.ViewModelApi
+import by.tms.homeapplication.sevenrestfulapi.entity.WeatherData
 import by.tms.homeapplication.sevenrestfulapi.retrofit.WeatherFactoryAPI
 import kotlinx.android.synthetic.main.activity_restful_api.*
 import kotlinx.coroutines.CoroutineScope
@@ -21,20 +20,18 @@ class ActivityRestfulApi : AppCompatActivity() {
         setContentView(R.layout.activity_restful_api)
 
         CoroutineScope(Dispatchers.IO).launch {
-            val response = WeatherFactoryAPI.getRetrofit().getCityCoordinates(53.9, 27.57).await()
+            val responseAll = WeatherFactoryAPI.getRetrofit()
+                .getCityCoordinates(53.9, 27.57, 40, "metric","69e22b2e07699e771cde71bcb0d360b8").await()
 
-            if (response.isSuccessful) {
-                val weather = response.body()
-                val model = ViewModelProvider(this as ActivityRestfulApi).get(ViewModelApi::class.java)
-                model.data = weather
+            if (responseAll.isSuccessful) {
+                val weatherAll = responseAll.body()
                 withContext(Dispatchers.Main) {
-                    recycleApi.adapter = AdapterApi(model.data)
-                    recycleApi.layoutManager = LinearLayoutManager(this as ActivityRestfulApi)
+                    recycleApi.adapter = AdapterApi(weatherAll)
+                    recycleApi.layoutManager = LinearLayoutManager(applicationContext)
                     recycleApi.setHasFixedSize(true)
-
                 }
             } else {
-                Log.e("ERROR", response.code().toString())
+                Log.e("ERROR", responseAll.code().toString())
             }
         }
     }
