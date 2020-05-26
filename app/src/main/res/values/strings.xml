@@ -47,5 +47,7 @@
     <string name="types">Types</string>
     <string name="weight">Weight</string>
     <string name="name_calorie_price">NCP</string>
+    <string name="text_test">Text   Test</string>
+    <string name="weather">Weather</string>
 
 </resources>

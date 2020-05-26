@@ -6,6 +6,7 @@ import android.os.Bundle
 import by.tms.homeapplication.fivefood.activity.ActivityFood
 import by.tms.homeapplication.fourflower.activity.ActivityFlower
 import by.tms.homeapplication.onemyfirstapp.ActivityOne
+import by.tms.homeapplication.sevenrestfulapi.activity.ActivityRestfulApi
 import by.tms.homeapplication.sixdataice.activity.ActivityDataIce
 import by.tms.homeapplication.threecoronavm.CoronaVirus
 import by.tms.homeapplication.twoanimationsandflags.ActivityTwo
@@ -44,6 +45,11 @@ open class MainActivity : AppCompatActivity() {
 
         button6.setOnClickListener {
             val intent = Intent(this, ActivityDataIce::class.java)
+            startActivity(intent)
+        }
+
+        button7.setOnClickListener {
+            val intent = Intent(this, ActivityRestfulApi::class.java)
             startActivity(intent)
         }
 

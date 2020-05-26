@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@color/colorApp"
-    tools:context=".fivefood.activity.ActivityFood">
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#A5CDED"
+tools:context=".sevenrestfulapi.activity.ActivityRestfulApi">
 
     <TextView
-        android:id="@+id/titleFood"
+        android:id="@+id/titleApi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
+        android:layout_margin="16dp"
         android:gravity="center"
-        android:text="@string/home_food_delivery"
+        android:text="@string/weather"
         android:textColor="#6A440B"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -22,12 +22,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recycleFood"
+        android:id="@+id/recycleApi"
         android:layout_width="match_parent"
-        android:layout_height="488dp"
-        android:layout_margin="18dp"
+        android:layout_height="500dp"
+        android:layout_margin="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/titleFood" />
+        app:layout_constraintTop_toBottomOf="@id/titleApi" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
