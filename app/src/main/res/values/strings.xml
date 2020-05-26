@@ -40,5 +40,12 @@
     <string name="price_food">"Price Food: "</string>
     <string name="home_food_delivery">Home Food Delivery</string>
     <string name="calorie_content">Calorie content:</string>
+    <string name="data_ice">Data Ice</string>
+    <string name="id">ID</string>
+    <string name="result">Result</string>
+    <string name="all">All</string>
+    <string name="types">Types</string>
+    <string name="weight">Weight</string>
+    <string name="name_calorie_price">NCP</string>
 
 </resources>

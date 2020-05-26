@@ -11,8 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FiveFood.activity.DataFood"></activity>
-        <activity android:name=".FiveFood.activity.ActivityFood" />
+        <activity android:name=".sixdataice.activity.ActivityDataIce"></activity>
+        <activity android:name=".fivefood.activity.DataFood" />
+        <activity android:name=".fivefood.activity.ActivityFood" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,15 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Two.ActivityTwo" />
-        <activity android:name=".Two.Animations" />
-        <activity android:name=".Two.Flags" />
-        <activity android:name=".Three.CoronaVirus" />
-        <activity android:name=".FourFlower.activity.AddFlower" />
-        <activity android:name=".FourFlower.activity.ActivityFlower" />
-        <activity android:name=".OneMyFirstApp.ActivityOne" />
-        <activity android:name=".FourFlower.activity.FlowerDataTop" />
-        <activity android:name=".FourFlower.activity.FlowerDataBottom" />
+        <activity android:name=".twoanimationsandflags.ActivityTwo" />
+        <activity android:name=".twoanimationsandflags.Animations" />
+        <activity android:name=".twoanimationsandflags.Flags" />
+        <activity android:name=".threecoronavm.CoronaVirus" />
+        <activity android:name=".fourflower.activity.AddFlower" />
+        <activity android:name=".fourflower.activity.ActivityFlower" />
+        <activity android:name=".onemyfirstapp.ActivityOne" />
+        <activity android:name=".fourflower.activity.FlowerDataTop" />
+        <activity android:name=".fourflower.activity.FlowerDataBottom" />
     </application>
 
 </manifest>
